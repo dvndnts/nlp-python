@@ -2,7 +2,7 @@
 
 Este repositório contém estudos e códigos relacionados ao uso de Python para Processamento de Linguagem Natural (PLN), com foco na extração de palavras-chave de textos em português.
 # Scripts
-## 1. [repeticao_palavras.py](https://)
+## 1. [repeticao_palavras.py](https://github.com/dvndnts/nlp/blob/main/repeticao_palavras.py)
 
 Este script realiza a contagem de frequência de palavras em um conjunto de textos. Ele segue os seguintes passos:
 
@@ -11,7 +11,7 @@ Este script realiza a contagem de frequência de palavras em um conjunto de text
 - Retorna as palavras mais frequentes, ordenadas da maior para a menor ocorrência.
 
 Esse script auxilia na identificação de termos que podem ser irrelevantes para a análise e, portanto, devem ser adicionados à lista de stopwords (palavras a serem ignoradas na análise de palavras-chave).
-## 2. [extracao_keywords.py](https://)
+## 2. [extracao_keywords.py](https://github.com/dvndnts/nlp/blob/main/extracao_keywords.py)
 
 Este script tem como objetivo a extração de palavras-chave dos textos. Ele:
 
